@@ -91,6 +91,6 @@ When I'm not coding, I might be gaming. Feel free to reach out and connect!
 
 <p align="center" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0adiy&layout=compact&theme=dark" alt="Most Used Languages" width="40.5%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0adiy&theme=dark" alt="Streak Stats" width="58.5%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0adiy&theme=dark" alt="Streak Stats" width="57%" />
 <img style="margin-top: 10px;" src="https://visitcount.itsvg.in/api?id=0adiy&label=Profile%20Views&color=12&icon=5&pretty=true&rounded=true">
 <p>
