@@ -1,6 +1,6 @@
 # Hello 👋, I am Aditya Yadav
 
-<img width="100%" src="https://media.discordapp.net/attachments/930006459398365214/1223333506130772091/banner.gif?ex=663dba5c&is=663c68dc&hm=b54003b531437d717186c2157901ca243f058fc5ec9008d712ed49bf46ae41fb&=" alt="my banner">
+<img width="100%" src="https://i.pinimg.com/originals/81/d8/bc/81d8bcfad665a61879ca7b7b154237a4.gif" alt="my banner">
 
 I'm a web developer passionate about building user-friendly and interactive webapps using JavaScript. Currently, I'm on a journey to expand my horizons by diving into the world of Low Level Programming with Rust and Tauri. My latest project is a [Meme Manager](https://github.com/0adiy/meme-manager) – a testament to my love for both humor and organization!
 
